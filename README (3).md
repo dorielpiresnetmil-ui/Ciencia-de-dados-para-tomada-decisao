@@ -1,7 +1,5 @@
 # Aplicação Prática de Python na Ciência dos Dados
-**Autor:** Doriel Pires Santana  
-**Cidade:** Redenção  
-**Data:** 25/10/2025  
+**Autor:** Doriel Pires Santana   
 **Disciplina:** Ciência dos Dados para Tomadas de Decisões  
 **Professor:** Sergio Ricardo Pereira de Mattos
 
